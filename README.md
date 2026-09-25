@@ -1,6 +1,6 @@
 # InvenCheck — Warehouse Management System
 
-InvenCheck adalah sistem manajemen stok gudang berbasis web yang dibangun menggunakan Laravel. Sistem ini mendukung multi-role (Admin, Staff Gudang, dan User/Karyawan) dengan hak akses yang dapat dikustomisasi secara dinamis melalui halaman Manajemen Role.
+InvenCheck adalah sistem manajemen stok gudang berbasis web yang dibangun menggunakan Laravel. Sistem ini mendukung multi-role (Admin, Staff Gudang, dan User/Karyawan) dengan hak akses yang dapat dikustomisasi secara dinamis melalui halaman Manajemen Role yang ada di akun admin
 
 ## Fitur Utama
 
